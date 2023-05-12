@@ -171,17 +171,6 @@
     background-color: #DEEBFF;
 }
 
-
-
-
-
-  
-
-
-
-  
-  
-
  
 
 .h1 {
@@ -462,9 +451,7 @@ footer a:hover{
         display: flex;
         justify-content: flex-end;
     }    
-    #hebergements {
-         
-    }
+   
     .hebergements-and-populaires section {
 
         width: auto;
@@ -528,11 +515,10 @@ footer a:hover{
         height: 211px;
     }
 
-    footer {
-        
+
     }
 
-  }
+
   
   /* Small devices (phones, less than 768px) */
   @media (max-width: 767.98px) {
